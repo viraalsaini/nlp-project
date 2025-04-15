@@ -3,7 +3,7 @@ import zipfile
 import os
 
 # Shared Drive link (make sure it's a ZIP file of all models)
-url = "https://drive.google.com/uc?id=10V2iwfWBXNjDdw9LZmgQvy_KsAGwUnW6"
+url = "https://drive.usercontent.google.com/download?id=1Wnu5n8t6hkrlpYHXrjRQzTSGzMl3mBsn&export=download&authuser=0"
 output_zip = "models.zip"
 
 # Download the zip
