@@ -4,3 +4,4 @@ torch
 sentencepiece
 scikit-learn
 gunicorn
+gdown
